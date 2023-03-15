@@ -9,7 +9,7 @@ file_data = open("./data.json")
 config = json.load(file_config)
 data = json.load(file_data)
 
-for item in config["alerts"]:
+for item in config["followed"]:
 
     results = fetch(item)
 
