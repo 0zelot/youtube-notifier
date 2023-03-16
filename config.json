@@ -1,0 +1,22 @@
+{
+    "subscribers": [
+        {
+            "name": "anon",
+            "url": "https://ntfy.sh/yoursubscribedtopichere"
+        }
+    ],
+    "followed": [
+        {
+            "type": "channel",
+            "id": "UCupvZG-5ko_eiXAupbDfxWw",
+            "regex": "China",
+            "subscriptions": ["anon"]
+        },
+        {
+            "type": "playlist",
+            "id": "EFIfRhk8NRc&list=PL2JtvykrieUxaLXkeuXRHb-pJB9XpVWtd",
+            "regex": "",
+            "subscriptions": ["anon"]
+        }
+    ]
+}
